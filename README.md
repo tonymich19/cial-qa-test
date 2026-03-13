@@ -1,4 +1,4 @@
-# Cypress Test Project - UI and API
+# CIAL Teste - UI and API
 
 Projeto de automação de testes com Cypress, cobrindo cenários de UI e API.
 
