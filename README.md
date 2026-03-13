@@ -2,7 +2,7 @@
 
 Projeto de automação de testes com Cypress, cobrindo cenários de UI e API.
 
-## Tecnologias utilizadas
+## Tecnologias utilizadas 
 
 - Cypress
 - JavaScript
